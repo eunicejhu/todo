@@ -4,6 +4,9 @@
 
 👉 [🔗 Link](https://demo-gamma-steel.vercel.app/)
 
+Login ID/Password
+> id : trustpair ; pass : trustpair@test
+
 ## Install it and run:
 
 ```sh
