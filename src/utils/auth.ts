@@ -8,7 +8,7 @@ export interface UserInfo {
 }
 export function setupCredential() {
   if (hasLocalStorage()) {
-    localStorage.setItem("trustPair", "trustpair@test");
+    localStorage.setItem("trustpair", "trustpair@test");
   }
 }
 
